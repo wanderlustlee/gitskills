@@ -7,3 +7,4 @@ tototoot
 >>>>>>> feature1
 3333333333
 --no-ff
+git stash!
